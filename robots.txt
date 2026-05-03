@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AHub88.github.io/resources-v3nwut/sitemap.xml
